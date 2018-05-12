@@ -1,0 +1,35 @@
+_repo: IniEin-Roman-aus-dem-ein-und-zwanzigsten-Jahrhundert_37994
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Leopold, Franz Joseph
+    gutenberg_agent_id: '39181'
+    url: http://www.gutenberg.org/2009/agents/39181
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Voss, Julius von
+    aliases:
+    - Von Voss, Julius
+    - Voß, Julius von
+    birthdate: 1768
+    deathdate: 1832
+    gutenberg_agent_id: '39180'
+    url: http://www.gutenberg.org/2009/agents/39180
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37994'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PT'
+title: 'Ini: Ein Roman aus dem ein und zwanzigsten Jahrhundert'
+url: http://www.gutenberg.org/ebooks/37994
